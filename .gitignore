@@ -1,0 +1,11 @@
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+next-env.d.ts
+.DS_Store
+.env*
+
+# next dev が自動生成する（②で各自が CLAUDE.md を書くため、リポジトリには含めない）
+CLAUDE.md
+AGENTS.md

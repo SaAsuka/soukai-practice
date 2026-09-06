@@ -1,0 +1,34 @@
+[
+  {
+    "name": "田中 健",
+    "contract": {
+      "base": 720000,
+      "lower": 140,
+      "upper": 180
+    }
+  },
+  {
+    "name": "望月 遥",
+    "contract": {
+      "base": 650000,
+      "lower": 140,
+      "upper": 180
+    }
+  },
+  {
+    "name": "井上 拓真",
+    "contract": {
+      "base": 580000,
+      "lower": 140,
+      "upper": 180
+    }
+  },
+  {
+    "name": "三浦 さくら",
+    "contract": {
+      "base": 700000,
+      "lower": 150,
+      "upper": 190
+    }
+  }
+]
