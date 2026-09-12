@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "deny": [
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(npm install:*)",
+      "Bash(npm i:*)",
+      "Bash(npm uninstall:*)",
+      "Bash(yarn add:*)",
+      "Bash(pnpm add:*)"
+    ],
+    "allow": [
+      "Bash(npm test:*)",
+      "Bash(npm run dev:*)",
+      "Bash(git status:*)",
+      "Bash(git diff:*)"
+    ]
+  }
+}

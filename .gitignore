@@ -6,6 +6,6 @@ next-env.d.ts
 .DS_Store
 .env*
 
-# next dev が自動生成する（②で各自が CLAUDE.md を書くため、リポジトリには含めない）
-CLAUDE.md
-AGENTS.md
+# next dev がリポジトリ直下に自動生成する（当日④で配る版は harness/ にある）
+/CLAUDE.md
+/AGENTS.md
